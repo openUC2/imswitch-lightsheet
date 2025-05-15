@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f59ac96e.js",
+    "lightsheet_plugin.js": "/remoteEntry.js",
+    "static/js/483.63baad65.chunk.js": "/static/js/483.63baad65.chunk.js",
+    "static/js/775.f9e05e5e.chunk.js": "/static/js/775.f9e05e5e.chunk.js",
+    "static/js/723.e012639c.chunk.js": "/static/js/723.e012639c.chunk.js",
+    "static/js/104.205ccc45.chunk.js": "/static/js/104.205ccc45.chunk.js",
+    "static/js/166.527d63c7.chunk.js": "/static/js/166.527d63c7.chunk.js",
+    "static/js/180.c36a04a2.chunk.js": "/static/js/180.c36a04a2.chunk.js",
+    "static/js/998.efbc7015.chunk.js": "/static/js/998.efbc7015.chunk.js",
+    "index.html": "/index.html",
+    "main.f59ac96e.js.map": "/static/js/main.f59ac96e.js.map",
+    "remoteEntry.js.map": "/remoteEntry.js.map",
+    "483.63baad65.chunk.js.map": "/static/js/483.63baad65.chunk.js.map",
+    "775.f9e05e5e.chunk.js.map": "/static/js/775.f9e05e5e.chunk.js.map",
+    "723.e012639c.chunk.js.map": "/static/js/723.e012639c.chunk.js.map",
+    "104.205ccc45.chunk.js.map": "/static/js/104.205ccc45.chunk.js.map",
+    "166.527d63c7.chunk.js.map": "/static/js/166.527d63c7.chunk.js.map",
+    "180.c36a04a2.chunk.js.map": "/static/js/180.c36a04a2.chunk.js.map",
+    "998.efbc7015.chunk.js.map": "/static/js/998.efbc7015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f59ac96e.js"
+  ]
+}
