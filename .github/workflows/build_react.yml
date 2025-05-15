@@ -36,13 +36,13 @@ jobs:
       - name: Build React UI
         run: npm run build
 
-      # Commit and push the dist directory if there are changes
-      - name: Commit and push dist
+      # Commit and push the build directory if there are changes
+      - name: Commit and push build
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist
+          git add build
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update dist [auto-build]"
+            git commit -m "chore: update build [auto-build]"
             git push "https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git" HEAD:${GITHUB_REF#refs/heads/}
           fi
